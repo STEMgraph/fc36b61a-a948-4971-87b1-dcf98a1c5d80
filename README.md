@@ -1,6 +1,7 @@
 <!---
 {
   "id": "fc36b61a-a948-4971-87b1-dcf98a1c5d80",
+  "teaches": "Creating Tables in LaTeX",
   "depends_on": ["00650b50-14de-471d-a347-246f47ffadde"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-02",
